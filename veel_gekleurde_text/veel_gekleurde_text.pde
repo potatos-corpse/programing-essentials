@@ -1,0 +1,11 @@
+size (600,600);
+background (200,100,0);
+fill (20,200,10);
+textSize (40);
+text ("rood",250,60);
+fill (200,10,20);
+textSize(40);
+text ("blauw",50,550);
+fill (10,20,200);
+textSize(40);
+text ("groen",450,300);
